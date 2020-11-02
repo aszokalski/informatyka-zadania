@@ -1,0 +1,43 @@
+
+.center {
+    text-align: center;
+}
+
+p.center {
+    color: blue;
+}
+
+div.center {
+    color: red;
+}
+
+.abc {
+    border: 1cm;
+    border-style: solid;
+    border-color: black;
+}
+
+#a {
+    color: green;
+}
+
+div.sticky {
+    text-align: right;
+    position: sticky;
+    top: 0;
+}
+
+.test {
+
+    margin: 10px;
+    margin-top: 10px;
+    padding-left: 20px;
+    padding-top: 20px;
+    border: 1px;
+    border-style: dotted;
+    border-color: black;
+    width: 100px;
+    height: 200px;
+    overflow: scroll;
+}
+

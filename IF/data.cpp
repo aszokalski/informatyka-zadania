@@ -4,7 +4,6 @@
 
 #include <iostream>
 
-
 using namespace std;
 
 bool przestepny(int y) {
